@@ -1,4 +1,4 @@
-# PloyNTT
+# PolyNTT
 Minimal Code for NTT-based Polynomial Multiplication
 
 - [x] Python Code for NTT - basic
